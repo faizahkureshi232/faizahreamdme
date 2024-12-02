@@ -27,7 +27,7 @@
  <a href="http://www.linkedin.com/in/faizah-kureshi-82b879232" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="faizahkureshi232"/>
  </a>
- <a href="https://react-portfolio-51g6.vercel.app/" target="_blank">
+ <a href="https://faizahkureshi.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Personal%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="faizahkureshi232" />
  </a>
 </p>
