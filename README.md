@@ -36,31 +36,30 @@
 <!--x axis divider-->
 <img src="images/horizontal-divider-gradient.gif" style="width: 100%;">
 
-<!-- About Section -->
-# About Me
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; max-width: 50%;">
-    <pre>
-      <code>
-# Use creativity
-from India import Person  
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="images/developer.webp" align="right" width="350">
+</a>
+</picture>
 
-person = Person(
-    name="Faizah M Kureshi",
-    title="AI Developer",
-    email="kureshifaizah@gmail.com"
-)
+# About me
 
-person.say_hello()
-      </code>
-    </pre>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="images/developer.webp" alt="Developer" width="350">
-  </div>
-</div>
+```js
+"use creativity";
+import { Person } from "India";
+
+new Person({
+  name: "Rehan Alam",
+  title: "Full Stack Developer",
+  email: "rehanalam5090@gmail.com",
+}).sayHello();
+```
+
 <br/>
+<br/>
+<br/>
+
 
 <!--x axis divider-->
 <img src="images/horizontal-divider-gradient.gif" style="width: 100%;">
